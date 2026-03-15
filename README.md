@@ -17,13 +17,13 @@
 <h3 align="center">💿 Current Rotation</h3>
 
   <a href="https://open.spotify.com/intl-es/album/20r762YmB5HeofjMCiPMLv?si=kod9nE73RgmaAN7Vmqu2Yw">
-    <img src="https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e02d9194aa18fa4c9362b47464f" width="150px" style="border-radius:10px;">
+    <img src="https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e02d9194aa18fa4c9362b47464f" width="250px" style="border-radius:10px;">
   </a>
   <a href="https://open.spotify.com/intl-es/album/2tLt6wYVuseWCe6IwDSlTm?si=iABKAeIARbKvz__LsxRbMw">
-    <img src="https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e029b2e563fae0760bdbaea8c22" width="150px" style="border-radius:10px;">
+    <img src="https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e029b2e563fae0760bdbaea8c22" width="250px" style="border-radius:10px;">
   </a>
   <a href="https://open.spotify.com/intl-es/album/65edimIChzNNK8VGn56pIK?si=j7koFFHMRWuw9APDmFVhSw">
-    <img src="https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e028da6404284573219a9b1e2f4" width="150px" style="border-radius:10px;">
+    <img src="https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e028da6404284573219a9b1e2f4" width="250px" style="border-radius:10px;">
   </a> 
   
 </div>
@@ -139,9 +139,8 @@ Open to new opportunities and technical challenges that allow me to keep expandi
 ## 💡 PHILOSOPHY
 
 > *"Everybody want to know what I would do if I didn't win...... I guess we'll never know."*
-<br>
-**- Kanye West**
->
+> 
+> **— Kanye West**
 <div align="center">
   <img src="resources/kanye.gif" alt="Kanye West" width="450" style="border-radius: 0px;">
   <br><br>
