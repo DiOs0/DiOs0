@@ -12,42 +12,37 @@
 
 ---
 
+## 👤 ABOUT ME
+
+Currently in my **8th semester**, specializing in microservices architecture and advanced data management (SQL/NoSQL). My academic foundation is built on rigorous mathematics, applied to advanced statistical analysis, probability theory, and machine learning model development.
+
+By combining **Java's** robustness for backend systems with **Python's** versatility for machine learning, I strive to build software that is not only functional—but intelligent.
+
+Open to new opportunities and technical challenges that allow me to keep expanding my tech stack.
+
+<br>
+
+---
+
 <div align="center">
 
 <h3 align="center">💿 Current Rotation</h3>
 
   <a href="https://open.spotify.com/intl-es/album/20r762YmB5HeofjMCiPMLv?si=kod9nE73RgmaAN7Vmqu2Yw">
-    <img src="https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e02d9194aa18fa4c9362b47464f" width="250px" style="border-radius:10px;">
+    <img src="https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e02d9194aa18fa4c9362b47464f" width="220px" style="border-radius:10px;">
   </a>
   <a href="https://open.spotify.com/intl-es/album/2tLt6wYVuseWCe6IwDSlTm?si=iABKAeIARbKvz__LsxRbMw">
-    <img src="https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e029b2e563fae0760bdbaea8c22" width="250px" style="border-radius:10px;">
+    <img src="https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e029b2e563fae0760bdbaea8c22" width="220px" style="border-radius:10px;">
   </a>
   <a href="https://open.spotify.com/intl-es/album/65edimIChzNNK8VGn56pIK?si=j7koFFHMRWuw9APDmFVhSw">
-    <img src="https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e028da6404284573219a9b1e2f4" width="250px" style="border-radius:10px;">
-  </a> 
-  
+    <img src="https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e028da6404284573219a9b1e2f4" width="220px" style="border-radius:10px;">
+  </a>
+
 </div>
 
 
 ---
 
-## 📊 SYSTEM PERFORMANCE
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=DiOs0&theme=radical&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e" alt="GitHub Stats" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiOs0&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e" alt="Most Used Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-
----
 ## 💪 SKILL SET
 
 ### 🖥️ Programming Languages
@@ -124,26 +119,32 @@
 
 ---
 
-## 👤 ABOUT ME
-
-Currently in my **8th semester**, specializing in microservices architecture and advanced data management (SQL/NoSQL). My academic foundation is built on rigorous mathematics, applied to advanced statistical analysis, probability theory, and machine learning model development.
-
-By combining **Java's** robustness for backend systems with **Python's** versatility for machine learning, I strive to build software that is not only functional—but intelligent.
-
-Open to new opportunities and technical challenges that allow me to keep expanding my tech stack.
-
-<br>
-
----
-
 ## 💡 PHILOSOPHY
 
 > *"Everybody want to know what I would do if I didn't win...... I guess we'll never know."*
-> 
+>
 > **— Kanye West**
 <div align="center">
   <img src="resources/kanye.gif" alt="Kanye West" width="450" style="border-radius: 0px;">
   <br><br>
+</div>
+
+
+---
+
+## 📊 SYSTEM PERFORMANCE
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=DiOs0&theme=radical&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e" alt="GitHub Stats" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiOs0&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e" alt="Most Used Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 
@@ -159,5 +160,3 @@ Open to new opportunities and technical challenges that allow me to keep expandi
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
-
-
