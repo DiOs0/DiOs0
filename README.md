@@ -131,25 +131,6 @@ Open to new opportunities and technical challenges that allow me to keep expandi
 
 
 ---
-
-## 📊 SYSTEM PERFORMANCE
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=DiOs0&theme=radical&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e" alt="GitHub Stats" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiOs0&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e" alt="Most Used Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-
----
-
 ## 📱 CONNECT WITH ME
 
 <div align="center">
